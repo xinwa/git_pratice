@@ -2,4 +2,4 @@ tv
 bag
 pl
 xinwa
-no bug mac
+bug mac
